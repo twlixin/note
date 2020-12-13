@@ -1,5 +1,5 @@
 
-1. sudo 無しで docker を実行できます。ubuntu 20
+1. run docker without sudo. ubuntu 20
 
   a. sudo snap install docker
   
