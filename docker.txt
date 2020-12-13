@@ -1,5 +1,7 @@
 
-1. run docker without sudo. ubuntu 20
+----------------------------------
+run docker without sudo. ubuntu 20
+----------------------------------
 
   a. sudo groupadd docker
   
