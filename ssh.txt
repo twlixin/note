@@ -1,0 +1,4 @@
+
+1. connect to amazon ec2, ubuntu
+
+  ssh -i "./PATH/fileName.pem" ubuntu@ec2-ip.ap-northeast-1.compute.amazonaws.com
