@@ -1,5 +1,5 @@
 
-1.install, with docker running
+1. install, with docker running
 
   a. curl -s https://laravel.build/example-app | bash
   
