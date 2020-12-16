@@ -1,9 +1,0 @@
-
-1. connect to amazon ec2, ubuntu
-
-  ssh -i "./PATH/fileName.pem" ubuntu@IP
-  
-  
-2. connect to Google vm
-
-  ssh -X -i ~/PATH/google_compute_engine userName@ip
